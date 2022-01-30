@@ -1,0 +1,11 @@
+li {float: left;
+    list-style-type:none;
+    }
+    a {display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #000000;
+    padding: 15px 15px 15px 15px;   
+    overflow: hidden;
+    align-items: center;
+  }

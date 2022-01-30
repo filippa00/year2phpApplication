@@ -1,0 +1,49 @@
+#home{
+    
+    background-image: url("homeBackgroundImage.png");
+    background-repeat: no repeat;
+    background-attachment: fixed;
+    background-position:center;
+    background-size:cover;
+}
+
+#about{
+    background-color: #F4C79A;
+}
+
+.svg-bg{
+background: url(logo.svg) left top no-repeat;
+background-size: 100px 100px;
+width: 100px;
+height: 100px;
+display: block
+}
+.display-1,.display-2{
+    color:#b37329; 
+    font-family: 'Satisfy', cursive;
+}
+.display-2
+{
+    text-indent: 15%; 
+    font-size: 100px;
+    
+}
+.imageBook{
+    background: url(openBook.png) left top no-repeat;
+background-size: 100px 100px;
+width: 100px;
+height: 100px;
+transform: rotate(10deg);
+
+display: block;
+}
+section{
+    width: 100%;
+    height:100vh;
+    align-items: center;
+}
+#about{
+    align-items: center;
+    display:flex;
+   ;
+}
